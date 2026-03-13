@@ -6,8 +6,8 @@
 
 ---
 
-### 🚀 About Me
-I am a **Fullstack Developer** and **AI/Data Systems Specialist** currently pursuing a **Licence d’Excellence** in Morocco. My expertise ranges from building high-performance **React/Next.js** applications to deploying **Deep Learning** models using **PyTorch** and **TensorFlow**. I bridge the gap between development and operations through **MLOps**, **CI/CD**, and **Big Data** orchestration.
+### 🖋️ Professional Profile
+Passionate about problem-solving and innovation, with a solid foundation in **Artificial Intelligence** concepts and **Machine Learning** techniques. I possess a strong background in programming languages such as **Python** and **Java**, coupled with practical experience in data analysis and model development. I am committed to leveraging these skills to drive impactful solutions in cutting-edge AI projects.
 
 ---
 
@@ -55,8 +55,8 @@ I am a **Fullstack Developer** and **AI/Data Systems Specialist** currently purs
 ---
 
 ### 🎯 Methodology & Focus
-- **Frameworks:** Expert in **Agile** (Scrum/Kanban) and classic SDLC methods.
-- **Languages:** Fluent in **Python, JavaScript, and Scala**.
+- **Frameworks:** Expert in **Agile** Scrum and classic SDLC methods.
+- **Languages:** Fluent in **Python and JavaScript**.
 - **IDE:** Primary environment is **Visual Studio Code**.
 - **Current Goal:** Mastering **German B2** and bridging Deep Learning with Web3.
 
