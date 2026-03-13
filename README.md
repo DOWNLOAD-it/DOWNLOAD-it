@@ -48,8 +48,8 @@ I am a **Fullstack Developer** and **AI/Data Systems Specialist** currently purs
 
 ### 📈 GitHub Stats & Activity
 <p align="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=[YOUR-GITHUB-USERNAME]&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR-GITHUB-USERNAME]&layout=compact&theme=tokyonight" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DOWNLOAD-it&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DOWNLOAD-it&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -70,8 +70,8 @@ I am a **Fullstack Developer** and **AI/Data Systems Specialist** currently purs
 
 ### 📫 Let's Connect
 <p align="left">
-<a href="https://linkedin.com/in/[YOUR-LINKEDIN]"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/abderrahmane-hassani-ab0a69298/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:abderrahmane.hassani123@gmail.com><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
