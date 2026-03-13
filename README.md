@@ -1,7 +1,7 @@
 # 👋 Hello, I'm HASSANI Abderrahmane!
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&width=500&lines=Fullstack+%26+MLOps+Engineer;AI+%2F+Deep+Learning+Specialist;Blockchain+%26+Web3+Explorer;German+Learner+(B2)" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&width=500&lines=Data+Scientist+%26+AI+Engineer;Fullstack+%26+Web3+Developer;DevOps+%2F+MLOps+Explorer;German+Learner+(B2)" alt="Typing SVG" />
 </p>
 
 ---
